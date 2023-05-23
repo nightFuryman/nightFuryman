@@ -2,7 +2,7 @@
   <a href="https://my-portfolio-4e2fb.web.app/"><img src="./pics/download.svg"/></a>
 </p>
 <p align="center">
-  <a href="https://my-portfolio-4e2fb.web.app/"><img align="center" src = "./pics/coding-freak.gif"></a>
+  <a href="https://my-portfolio-4e2fb.web.app/"><img align="center" src = "./pics/full-stack-development.gif"></a>
 </p>
 
 
