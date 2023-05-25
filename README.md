@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://portfolio-25c95.web.app/"><img src="./pics/download.svg"/></a>
+  <a href="https://portfolio-25c95.web.app/" target = "_blank"><img src="./pics/download.svg"/></a>
 </p>
 <p align="center">
-  <a href="https://portfolio-25c95.web.app/"><img align="center" src = "./pics/full-stack-development.gif"></a>
+  <img align="center" src = "./pics/full-stack-development.gif"></a>
 </p>
 
 
