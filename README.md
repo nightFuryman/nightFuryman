@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://my-portfolio-4e2fb.web.app/"><img src="./pics/download.svg"/></a>
+  <a href="https://portfolio-25c95.web.app/"><img src="./pics/download.svg"/></a>
 </p>
 <p align="center">
-  <a href="https://my-portfolio-4e2fb.web.app/"><img align="center" src = "./pics/full-stack-development.gif"></a>
+  <a href="https://portfolio-25c95.web.app/"><img align="center" src = "./pics/full-stack-development.gif"></a>
 </p>
 
 
@@ -70,5 +70,5 @@
  </p>
  
  <p align="center">
- <img src="https://komarev.com/ghpvc/?username=nightFuryman&color=blue&style=for-the-badge" alt="nightFuryman" />
+    <img src="https://komarev.com/ghpvc/?username=nightFuryman&color=blue&style=for-the-badge" alt="nightFuryman" />
  </p>
