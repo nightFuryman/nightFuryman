@@ -2,7 +2,7 @@
   <a href="https://portfolio-25c95.web.app/" target = "_blank"><img src="./pics/download.svg"/></a>
 </p>
 <p align="center">
-  <img align="center" src = "./pics/full-stack-development.gif"></a>
+  <img align="center" src = "./pics/full-stack-development.gif">
 </p>
 
 
