@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://portfolio-25c95.web.app/" target = "_blank"><img src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&size=24&duration=3000&pause=500&color=8000FF&width=435&lines=Hi,%20I%27m%20%F0%9F%92%A5Miyu%20Tanaka%E2%9A%A1%20;Passionated%20Full%20Stack%20Developer;7%20years%20of%20Hands-on%20Experience"/></a>
+  <img align="center" src = "./pics/download.svg">
 </p>
 <p align="center">
   <img align="center" src = "./pics/full-stack-development.gif">
